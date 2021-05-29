@@ -2,6 +2,7 @@ import React from 'react';
 import { StyleSheet, Text, View } from 'react-native';
 import ScanScreen from './screens/scanScreen';
 //aaa
+//a
 
 export default class App extends React.Component {
   render(){
